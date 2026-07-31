@@ -22,7 +22,7 @@ export const releases = [
      id: 2,
     title: "TIMELESS COVERS (CLEANED & EXTENDED)",
     year: "2026",
-    cover: "/images/tccover.jpg",
+    cover: "/images/tcdcover.jpg",
     audiomack: "https://audiomack.com/charmz4theradio/album/timeless-covers-cleaned-extended",
     reverbnation: "https://www.reverbnation.com/9533214/album/341681",
     description: "TIMELESS COVERS (CLEANED & EXTENDED) is an official studio compilation album released by Sway Charmz. It serves as a polished, high-fidelity remaster of his most popular viral music covers. The project features a collection of tracks that showcase Sway Charmz's versatility as an artist, blending contemporary Afrosounds with soulful melodies and heartfelt lyrics. With its refined production and captivating performances, TIMELESS COVERS (CLEANED & EXTENDED) solidifies Sway Charmz's position as a rising star in the Nigerian music scene.",
