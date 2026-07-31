@@ -45,7 +45,7 @@ export const releases = [
     cover: "/images/enchanted 2.jpg",
     audiomack: "https://audiomack.com/swaycharmz/song/enchanted",
     soundcloud: "https://soundcloud.com/swaycharmzfr/enchanted",
-    description: "Enchanted is a prominent studio track by Sway Charmz, officially released as a major single on December 25, 2025. The song serves as a romantic anthem and a preview of his upcoming discography.",
+    description: "Enchanted is the original solo track released by Sway Charmz on August 2, 2025. It served as the introductory foundation for the track before the highly requested December remix featuring DDB was put together.",
   },
   {
     id: 5,
