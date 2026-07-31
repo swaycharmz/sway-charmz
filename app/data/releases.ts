@@ -80,7 +80,7 @@ export const releases = [
     id: 8,
     title: "CHÉRIE",
     year: "2025",
-    cover: "/images/23cover.jpg",
+    cover: "/images/cherie.jpg",
     audiomack: "https://audiomack.com/charmz4theradio/album/cherie",
     description: "CHÉRIE is a major studio album released by Sway Charmz on August 17, 2025. The project stands out as a core piece of his discography, showcasing his trademark smooth Afrosounds delivery and romantic songwriting themes. The album features a collection of tracks that highlight Sway Charmz's versatility as an artist, blending contemporary Afrosounds with soulful melodies and heartfelt lyrics. With its polished production and captivating performances, CHÉRIE solidifies Sway Charmz's position as a rising star in the Nigerian music scene.",
   },
