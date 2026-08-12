@@ -41,11 +41,12 @@ export default function ReleasesPage() {
 
               <div className="relative aspect-square">
                 <Image
-                  src={release.cover}
-                  alt={release.title}
-                  fill
-                  className="object-cover"
-                />
+              src={release.cover}
+              alt={release.title}
+              fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+              className="object-cover"
+/>
               </div>
 
               <div className="p-8">
